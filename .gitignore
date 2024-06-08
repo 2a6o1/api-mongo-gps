@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+
+# Node.js
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directory
+npm-debug.log
+
+# Config files
+dev.config.yml
+stg.config.yml
+prd.config.yml
+*.config.yml
+*.config.*
+*.config
+config.*
+
+# Compiled files
+dist/
+
+# Editor-specific files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
